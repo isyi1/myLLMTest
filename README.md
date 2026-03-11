@@ -56,4 +56,8 @@ sequenceDiagram
 ### API Key 관리
 * **보안 강화:** Groq API 키와 같은 민감 정보는 소스 코드에 직접 노출하지 않고, **`.env`** 파일에 격리하여 관리합니다.
 
+---
+
+### 샘플 데이터
+[공공 데이터 포털](https://www.data.go.kr/index.do)에서 데이터를 참조했습니다.
 
